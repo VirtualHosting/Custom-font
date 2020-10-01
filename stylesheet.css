@@ -1,0 +1,10 @@
+
+
+@font-face {
+	font-family: "8bit";
+	src: url("8BITWONDERNominal.ttf");
+}
+
+body {
+	font-family: "8bit" !important;
+}
